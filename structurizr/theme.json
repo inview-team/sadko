@@ -1,0 +1,42 @@
+{
+    "name": "technology",
+    "description": "icons",
+    "elements": [
+        {
+            "tag": "Golang",
+            "icon": "https://raw.githubusercontent.com/inview-team/sadko/master/.github/images/golang.png"
+        },
+        {
+            "tag": "Python",
+            "icon": "https://raw.githubusercontent.com/inview-team/sadko/master/.github/images/python.png"
+        },
+        {
+            "tag": "Postgres",
+            "icon": "https://raw.githubusercontent.com/inview-team/sadko/master/.github/images/postgres.png"
+        },
+        {
+            "tag": "ETCD",
+            "icon": "https://raw.githubusercontent.com/inview-team/sadko/master/.github/images/etcd.svg"
+        },
+        {
+            "tag": "React",
+            "icon": "https://raw.githubusercontent.com/inview-team/sadko/master/.github/images/react.png"
+        },
+        {
+            "tag": "Minio",
+            "icon": "https://raw.githubusercontent.com/inview-team/sadko/master/.github/images/minio.png"
+        },
+        {
+            "tag": "Milvus",
+            "icon": "https://raw.githubusercontent.com/inview-team/sadko/master/.github/images/Milvus.png"
+        },
+        {   
+            "tag": "Towhee",
+            "icon": "https://raw.githubusercontent.com/inview-team/sadko/master/.github/images/towhee.png"
+        },
+        {
+            "tag": "RabbitMQ",
+            "icon": "https://raw.githubusercontent.com/inview-team/sadko/master/.github/images/rabbitmq.png"            
+        }
+    ]
+}
